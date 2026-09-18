@@ -1,7 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
-
 # Moiz Clinic - Medical Clinic & Family Healthcare
 
 A modern, responsive, and patient-focused web application for **Moiz Clinic**, located on **Main Academy Road, Lahore Cantt**. This website provides vital clinic information, lead physician profiles, clinical department hours, and online appointment / inquiry channels with direct WhatsApp integration.
