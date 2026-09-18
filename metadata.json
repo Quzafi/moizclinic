@@ -1,0 +1,8 @@
+{
+  "name": "Moiz Clinic",
+  "description": "Medical clinic on Main Academy Road, Lahore Cantt, offering doctor consultations, clinic timings, and appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
